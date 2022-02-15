@@ -15,3 +15,11 @@ Belajar Dasar Git dengan Github (Progress 50%)
 - Berlatih membuat New Repository, readme dan Release File.
 - Berlatih menambahkan file baru.
 - Berlatih mengubah data dalam berkas menggunakan Commit.
+
+**16 Februari 2022**\
+Belajar Dasar Git dengan Github (Progress 100%)
+
+- Membuat New Repository mengenai studi kasus Pengalaman Belajar.
+- Belajar mengenai Git Branches.
+- Github sebagai portofolio.
+
