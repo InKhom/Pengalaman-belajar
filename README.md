@@ -7,6 +7,7 @@ Belajar Dasar Git dengan Github (Progress 21%)
 - Belajar tentang apa itu Git.
 - Belajar tentang apa itu Github secara mendalam.
 - Belajar mengenai fitur-fitur yang ada di Git.
+- Berlatih membuat akun Github
 
 **15 Februari 2022**\
 Belajar Dasar Git dengan Github (Progress 50%)
@@ -23,5 +24,6 @@ Belajar Dasar Git dengan Github (Progress 100%)
 - Belajar mengenai Git Branches.
 - Github sebagai portofolio.
 - Berlatih melakukan merge di Github
+- Berlatih melakukan perubahan pada squash
 
 
