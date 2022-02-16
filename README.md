@@ -22,4 +22,6 @@ Belajar Dasar Git dengan Github (Progress 100%)
 - Membuat New Repository mengenai studi kasus Pengalaman Belajar.
 - Belajar mengenai Git Branches.
 - Github sebagai portofolio.
+- Berlatih melakukan merge di Github
+
 
